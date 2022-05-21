@@ -17,7 +17,7 @@
 html, body{
     min-height: 100vh;
     margin: auto;
-    background-image: url('../Aula 06/imagens-cap19/wallpaper002.jpg');
+    background-image: url('imagens/wallpaper002.jpg');
     background-size: cover;
     background-attachment: fixed;
     font-family: var(--fonte01);
